@@ -1,5 +1,6 @@
 # SLRC
-*Short-term and Life-time Repeat Consumption (SLRC)*
+*Short-term and Life-time Repeat Consumption (SLRC)*     
+
 Model repeat consuming behavior with combination of Collaborative Filtering (CF) and Hawkes Process.
 
 
