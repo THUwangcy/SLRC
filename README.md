@@ -44,7 +44,7 @@ If you want to train with GPU, tensorflow-gpu==1.2.0 is required.
 - **Recsys2017**: Click log of job posting. The original data and description is avaliable [here](http://www.recsyschallenge.com/2017/).
 - **BrightKite**: User check-in data to physical locations. The original data and description is avaliable [here](http://snap.stanford.edu/data/loc-brightkite.html).
 
-The format description of origin data and dataset after preprocessing can be found in  [./data/README.md](https://github.com/THUwangcy/SLRC/data/READEME.md).
+The format description of origin data and dataset after preprocessing can be found in  [./data/README.md](https://github.com/THUwangcy/SLRC/tree/master/data).
 
 
 
@@ -66,7 +66,7 @@ Download [original data](https://drive.google.com/drive/folders/1ZDjnC2L0pWpdqd5
 
 According to our experiences, SLRC_BPR generally works well and takes less time to train, which is the most robust. SLRC_NCF relies on fine-tuned parameters to get good results (sometimes still worse than SLRC_BPR). Therefore, we *recommend to use BPR as the Collaborative filtering (CF) method* to calculate base intensity.
 
-Example training log in Order dataset can be found in [./log/](https://github.com/THUwangcy/SLRC/log/).
+Example training log in Order dataset can be found in [./log/](https://github.com/THUwangcy/SLRC/tree/master/log).
 
 
 
