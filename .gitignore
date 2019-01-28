@@ -2,7 +2,6 @@
 .DS_Store
 .idea/
 model/
-log/
 plot/
 __pycache__/
 run.sh
