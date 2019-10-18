@@ -81,4 +81,4 @@ Example training log in Order dataset can be found in [./log/](https://github.co
 
 
 
-Last Update Date: Jan 28, 2019
+Last Update Date: Oct. 18, 2019
