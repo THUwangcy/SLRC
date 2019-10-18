@@ -1,6 +1,6 @@
 ## Data
 
-*The original data of Order dataset can be downloaded [here](https://drive.google.com/drive/folders/1ZDjnC2L0pWpdqd5TNXMICaB_GOsZXTI8?usp=sharing)*
+*The original data of Order dataset can be downloaded on [Google Drive](https://drive.google.com/drive/folders/1ZDjnC2L0pWpdqd5TNXMICaB_GOsZXTI8?usp=sharing) or [Baidu Cloud Drive](https://pan.baidu.com/s/1WTiDOURoF_X0TGqoQZBUCA&shfl=shareset) (access code: **mw5r**)*
 
 Files under this folder are original data (like order.txt) in following format:
 
