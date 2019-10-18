@@ -7,7 +7,7 @@
 
 This is our implementation for the paper:
 
-*Chenyang Wang, Min Zhang, Weizhi Ma, Yiqun Liu, and Shaoping Ma. 2019. [Modeling Item-Specific Temporal Dynamics of Repeat Consumption for Recommender Systems.](https://github.com/THUwangcy/SLRC) 
+*Chenyang Wang, Min Zhang, Weizhi Ma, Yiqun Liu, and Shaoping Ma. 2019. [Modeling Item-Specific Temporal Dynamics of Repeat Consumption for Recommender Systems.](http://www.thuir.cn/group/~YQLiu/publications/WWW2019Wang.pdf) 
 In WWW'19.*
 
 Three models are implemented when integrating different CF methods:
@@ -17,6 +17,17 @@ Three models are implemented when integrating different CF methods:
 - SLRC_NCF: [Neural Collaborative Filtering (NCF)](https://dl.acm.org/citation.cfm?id=3052569) utilize nerual network to solve CF problem.
 
 **Please cite our paper if you use our codes. Thanks!**
+
+```
+@inproceedings{wang2019modeling,
+  title={Modeling Item-Specific Temporal Dynamics of Repeat Consumption for Recommender Systems},
+  author={Wang, Chenyang and Zhang, Min and Ma, Weizhi and Liu, Yiqun and Ma, Shaoping},
+  booktitle={The World Wide Web Conference},
+  pages={1977--1987},
+  year={2019},
+  organization={ACM}
+}
+```
 
 Author: Chenyang Wang (THUwangcy@gmail.com)
 
